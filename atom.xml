@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://techbobatea.github.io</id>
+    <title>奶茶君</title>
+    <updated>2023-01-31T15:37:53.185Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://techbobatea.github.io"/>
+    <link rel="self" href="https://techbobatea.github.io/atom.xml"/>
+    <subtitle>奶茶君的小菜园</subtitle>
+    <logo>https://techbobatea.github.io/images/avatar.png</logo>
+    <icon>https://techbobatea.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 奶茶君</rights>
+    <entry>
+        <title type="html"><![CDATA[[保姆级手拉手]2023 最新注册CloudFlare教程]]></title>
+        <id>https://techbobatea.github.io/post/bao-mu-ji-shou-la-shou-2023-zui-xin-zhu-ce-cloudflare-jiao-cheng/</id>
+        <link href="https://techbobatea.github.io/post/bao-mu-ji-shou-la-shou-2023-zui-xin-zhu-ce-cloudflare-jiao-cheng/">
+        </link>
+        <updated>2023-01-31T14:27:10.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/E85xg2aL9A0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>大家好,我是奶茶君.<br>
+很高兴再次与大家见面.<br>
+这次主要给大家介绍一下CloudFlare,CloudFlare是一个全球CDN加速服务提供商.</p>
+<p>CloudFlare的最大的特点,也是其他的CDN无法比拟的就是免费用户也可以使用这些加速节点.<br>
+免费用户不限制流量也是Cloudfalre的卖点之一,这一点相对于Google Cloud、AWS、阿里云、腾讯云等是非常值得推荐的.<br>
+这里可能有网友提出疑问,CloudFlare不是只能针对海外进行加速吗?<br>
+其实并不是这样的,CloudFlare已经在官网说明了中国网络的合作方是京东云.<br>
+并且也说明了,如果要使用CloudFlare的中国大陆区域的节点域名必须要进行ICP备案.<br>
+满足了以上要求,您就可以使用CloudFlare的中国大陆区域的节点了.<br>
+所以,如果您拥有一个已经进行过ICP备案的域名,您就可以使用大陆的CloudFlare提供的CDN节点.从而获得更好的速度.</p>
+<p>也许您在这里会有疑问,为什么要推荐CloudFlare呢?<br>
+这是因为,在我们使用一些代理服务的时候可能访问情况并不理想.<br>
+这时,我们就可以使用CloudFlare提供的加速服务来为我们的代理进行提速.<br>
+之后,还会有一系列的视频会用到CloudFlare.<br>
+可能会有网友提出问题,CloudFlare只能为海外用户提供加速服务并没有为中国用户提供服务.<br>
+并且这些视频是一个系列,您不用一次性观看超过20分钟的视频来解决问题.<br>
+您可以挑选感兴趣的视频进行观看,这样为您节省了更多的时间.</p>
+<p>首先,我们来到CloudFlare的官方网站.<br>
+现在的CloudFlare的网站做了一部分调整,在您访问www.cloudflare.com的时候会自动跳转到www.cloudflare-cn.com的网站.<br>
+请您放心,这时官方网站专为中国用户制作的网站.<br>
+目前,这个网站还在紧锣密鼓的进行本地化.<br>
+所以,在点击一些链接时可能会出现无法找到该页面的提示.<br>
+顺便提一下,CloudFlare在招聘大中华区的销售经理.<br>
+如果您感兴趣中文和英文非常好并拥有2年的B2B的工作经验,可以考虑投递简历试试看.</p>
+<p>下面,我们将进行首测注册.<br>
+点击右上角的 “注册” 按钮 , 跳转到用户注册页面.<br>
+这里如果您显示的不是中文,您可以点击右上角的语言选项选择简体中文.<br>
+在这里只需要填写您的Email与密码</p>
+<p>注册完成之后您会收到一封要求验证的,您只需要点击链接即可完成验证.<br>
+到此,您的账号就已经注册完毕.<br>
+您可以添加域名并使用CloudFlare的服务了.<br>
+感谢您的观看,谢谢再见!</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 最新北停卡免流破解方法]]></title>
+        <id>https://techbobatea.github.io/post/2023-zui-xin-bei-ting-qia-mian-liu-po-jie-fang-fa/</id>
+        <link href="https://techbobatea.github.io/post/2023-zui-xin-bei-ting-qia-mian-liu-po-jie-fang-fa/">
+        </link>
+        <updated>2023-01-31T14:23:09.000Z</updated>
+        <content type="html"><![CDATA[<iframe width="560" height="315" src="https://youtu.be/XZ-fmDDBGoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p>X-UI一键安装脚本(https://github.com/vaxilu/x-ui)<br>
+bash &lt;(curl -Ls https://raw.githubusercontent.com/vaxilu/x-ui/master/install.sh)</p>
+<p>Centos7 关闭防火墙命令<br>
+systemctl stop firewalld</p>
+<p>Centos7 关闭启动加载命令<br>
+systemctl disable firewalld</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Debian 11 开启BBR]]></title>
+        <id>https://techbobatea.github.io/post/debian-open-bbr/</id>
+        <link href="https://techbobatea.github.io/post/debian-open-bbr/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>首先把参数放入配置文件</p>
+<pre><code>echo net.core.default_qdisc=fq &gt;&gt; /etc/sysctl.conf
+
+echo net.ipv4.tcp_congestion_control=bbr &gt;&gt; /etc/sysctl.conf
+
+sysctl -p
+</code></pre>
+<p>检查是否成功：</p>
+<pre><code>sysctl net.ipv4.tcp_available_congestion_control
+</code></pre>
+<p>显示：</p>
+<pre><code>sysctl net.ipv4.tcp_available_congestion_control
+net.ipv4.tcp_available_congestion_control = bbr cubic reno
+</code></pre>
+<p>或者</p>
+<pre><code>lsmod | grep bbr
+</code></pre>
+<p>来确认是否已经开启</p>
+]]></content>
+    </entry>
+</feed>
